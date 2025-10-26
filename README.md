@@ -1,5 +1,5 @@
 ## fiches prépa
-Voici les PDF de mes fiches de prépa en mathématiques et physique
+Voici les PDF de mes fiches de prépa en mathématiques et physique.
 
 En mp2i j'ai pris du temps pour trouver exactement comment je voulais faire mes fiches, donc je trouve les 12 premiers chapitres de physique_mp2i.pdf et maths_mp2i.pdf pas très beaux.
 
